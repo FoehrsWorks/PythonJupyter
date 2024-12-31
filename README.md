@@ -32,12 +32,8 @@ print("Hello, World!")
 #### Aufgabe 1: Variablen nutzen
 Ändere das Programm so, dass es eine Nachricht in einer Variablen speichert und diese dann ausgibt.
 
----
-
 #### Aufgabe 2: Benutzername einfügen
 Passe das Programm so an, dass es den Namen des Benutzers in die Nachricht einfügt.
-
----
 
 ## Dein erster Python-Taschenrechner 🧮
 
@@ -80,58 +76,38 @@ else:
     print("Ungültige Operation!")
 ```
 
----
 
-### 2. Aufgaben für den Taschenrechner
+### Aufgaben für den Taschenrechner
 
 #### Aufgabe 1: Berechne die Summe von drei Zahlen
 Ergänze den Code, um die Summe von drei Zahlen zu berechnen!
 
----
-
 #### Aufgabe 2: Erweiterung um Modulo
 Füge die Berechnung des Restwerts (Modulo, `%`) hinzu.
-
----
 
 #### Aufgabe 3: Fehler abfangen
 Sorge dafür, dass das Programm einen Fehler abfängt, wenn der Benutzer keine Zahl eingibt.
 
----
-
 #### Aufgabe 4: Mehrere Berechnungen hintereinander
 Lass den Benutzer mehrere Berechnungen hintereinander durchführen, bis er „exit“ eingibt.
 
----
-
-## 3. Kreative Aufgaben
+## Kreative Aufgaben
 
 ### Aufgabe 1: Benutzerdefinierte Begrüßung
 Schreibe ein Programm, das den Benutzer fragt, wie er begrüßt werden möchte.
 
----
-
 ### Aufgabe 2: Zufällige Begrüßung
 Das Programm soll aus einer Liste von Begrüßungen zufällig eine auswählen.
 
----
-
-## 4. Aufgaben zur Förderung von Logik
+## Aufgaben zur Förderung von Logik
 
 ### Aufgabe 1: Zahlen vergleichen
 Schreibe ein Programm, das zwei Zahlen vergleicht und sagt, welche größer ist.
 
----
-
 ### Aufgabe 2: Gerade oder ungerade?
 Schreibe ein Programm, das überprüft, ob eine eingegebene Zahl gerade oder ungerade ist.
 
----
-
-## 5. Erweiterte Herausforderungen
+## Erweiterte Herausforderungen
 
 ### Aufgabe 1: Mini-Spiel – Zahlenraten
 Der Benutzer soll eine Zahl zwischen 1 und 10 erraten, die das Programm zufällig auswählt.
-
----
-```
